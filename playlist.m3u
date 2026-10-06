@@ -1,2 +1,8 @@
 https://cloudfront.net
 https://akamaized.net
+#EXTM3U
+#EXTINF:-1, PBS America
+https://cloudfront.net
+
+#EXTINF:-1, Red Bull TV
+https://akamaized.net
